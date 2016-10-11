@@ -243,3 +243,17 @@ a {
 @media screen and (max-width: 42em) {
   .site-footer {
     font-size: 0.9rem; } }
+
+.clearfix {
+    overflow: auto;
+}
+
+.imageleft {
+	float: left;
+	margin: 15px;
+}
+
+.imageright {
+	float: right;
+	margin: 15px;
+}
