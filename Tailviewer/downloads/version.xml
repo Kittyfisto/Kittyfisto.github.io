@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <versions>
-	<stable major="0" minor="2" build="86" path="stable/0.2.86/Tailviewer-setup.exe" />
+	<stable major="0" minor="3" patch="0" build="0" path="stable/0.3.0/Tailviewer-setup.exe" />
 	<beta></beta>
 </versions>
